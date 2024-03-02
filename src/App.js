@@ -42,7 +42,7 @@ setAlert(null);
   return (
     <>
     {/* <Router> */}
-    <Navbar title="TextUtil"  mode={mode} toggle={toggleMode}/>
+    <Navbar title="TextUtil"  mode={mode} toggle={toggleMode} aboutText="About"/>
     <Alert alert={alert} />
     {/* <Routes>
     <Route path='/about' element={<About></About>}></Route> */}

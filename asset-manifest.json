@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/TextUtil/static/css/main.f855e6bc.css",
-    "main.js": "/TextUtil/static/js/main.a726f10c.js",
-    "static/js/453.ed3810f9.chunk.js": "/TextUtil/static/js/453.ed3810f9.chunk.js",
+    "main.css": "/TextUtil/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/TextUtil/static/js/main.5744a7ce.chunk.js",
+    "main.js.map": "/TextUtil/static/js/main.5744a7ce.chunk.js.map",
+    "runtime-main.js": "/TextUtil/static/js/runtime-main.9f3a0ff1.js",
+    "runtime-main.js.map": "/TextUtil/static/js/runtime-main.9f3a0ff1.js.map",
+    "static/js/2.8f01fc04.chunk.js": "/TextUtil/static/js/2.8f01fc04.chunk.js",
+    "static/js/2.8f01fc04.chunk.js.map": "/TextUtil/static/js/2.8f01fc04.chunk.js.map",
+    "static/js/3.a8bd2e92.chunk.js": "/TextUtil/static/js/3.a8bd2e92.chunk.js",
+    "static/js/3.a8bd2e92.chunk.js.map": "/TextUtil/static/js/3.a8bd2e92.chunk.js.map",
     "index.html": "/TextUtil/index.html",
-    "main.f855e6bc.css.map": "/TextUtil/static/css/main.f855e6bc.css.map",
-    "main.a726f10c.js.map": "/TextUtil/static/js/main.a726f10c.js.map",
-    "453.ed3810f9.chunk.js.map": "/TextUtil/static/js/453.ed3810f9.chunk.js.map"
+    "precache-manifest.5191613636abdeb2d15740cf8047d12f.js": "/TextUtil/precache-manifest.5191613636abdeb2d15740cf8047d12f.js",
+    "service-worker.js": "/TextUtil/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/TextUtil/static/css/main.435d5fe5.chunk.css.map",
+    "static/js/2.8f01fc04.chunk.js.LICENSE.txt": "/TextUtil/static/js/2.8f01fc04.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.a726f10c.js"
+    "static/js/runtime-main.9f3a0ff1.js",
+    "static/js/2.8f01fc04.chunk.js",
+    "static/css/main.435d5fe5.chunk.css",
+    "static/js/main.5744a7ce.chunk.js"
   ]
 }
